@@ -4,7 +4,7 @@ For this report use LSTM, Machine Learning and Statistic to understanding market
 Dataset:<br>
 The dataset from yahoo website in CSV format.The dataset consists of Open, High, Low, Close, Adj Close Prices and Valume of AAPL, AMZN, GOOG, INTC, META, MSFT, NVDA, TSLA 8 stock data for analysis.<br>
 
-Indicator:<br>
+Indicator and Calculation:<br>
 Relative Strength Index (RSI), Bollinger Bands (BB), Volume Plain, Aroon Oscillator, Price Volume Trend (PVT), Stochastic Oscillator, Chaikin Money Flow (CMF), Parabolic SAR (PSAR), Rate of Change (ROC) and Volume Weighted Average Price (VWAP).<br>
 
 Conclusion:<br>
